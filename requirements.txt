@@ -1,5 +1,4 @@
 streamlit
 numpy
-opencv-python==4.8.1.78
 Pillow
 tensorflow
