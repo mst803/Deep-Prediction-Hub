@@ -1,6 +1,5 @@
 import streamlit as st
 import numpy as np
-import cv2
 from PIL import Image
 from tensorflow.keras.models import load_model
 from tensorflow.keras.datasets import imdb
