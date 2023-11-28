@@ -9,7 +9,7 @@ Tasks
 1. Sentiment Classification
 This task involves classifying the sentiment of a given text into "Positive" or "Negative". Users can input a review, and the application provides the sentiment classification using various models.
 
-2.Tumor Detection
+2. Tumor Detection
 In Tumor Detection, users can upload an image, and the application uses a Convolutional Neural Network (CNN) model to determine if a tumor is present or not.
 Getting Started
 
@@ -53,6 +53,3 @@ Models
 Contributing
 
 Feel free to contribute by opening issues or submitting pull requests. Please follow the contribution guidelines.
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
